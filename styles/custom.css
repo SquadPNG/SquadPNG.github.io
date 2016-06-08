@@ -1,0 +1,23 @@
+/*______ image styles*/
+.bimg{
+  width: 100%;
+  float: left;
+  clear: right;
+}
+
+
+
+/*--- special heads and text*/
+
+.b1head{
+  float: left;
+  text-align-last: center;
+  flex: inherit;
+  clear: both;
+}
+
+/*footer*/
+
+ footer {
+    border-top: 0.2rem solid black;
+  }
